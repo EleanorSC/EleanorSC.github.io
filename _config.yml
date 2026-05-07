@@ -3,13 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+first_name: Eleanor
+middle_name: L. S.
+last_name: Conole
+contact_note: eleanor.conole@ndcn.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a Research Fellow in Applied AI working at the Nuffield Department of Clinical Neurosciences (https://www.ndcn.ox.ac.uk/). 
+  My research in neuroepigenetics (Conole et al., 2021; 2022; 2023; 2024; 2025; ongoing projects) examines how the way we live shapes individual differences in brain health. 
+  I am particularly interested in how environmental exposures can be profiled using epigenetics to examine heterogeneity in brain structure 
+  and trajectories of cognitive ageing.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
