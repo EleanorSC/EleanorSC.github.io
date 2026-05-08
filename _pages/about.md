@@ -23,6 +23,4 @@ latest_posts:
   enabled: false
 ---
 
-My research in neuroepigenetics examines how environmental exposures shape individual differences in brain health across the lifespan. I am particularly interested in using epigenetic biomarkers to investigate heterogeneity in cortical structure, cognitive ageing, inflammation, and neuropsychiatric risk.
-
-My work combines large-scale neuroimaging, epigenetics, epidemiology, and population neuroscience to understand mechanisms linking the environment, biological ageing, and brain health.
+My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between DNA methylation and heterogeneity in brain ageing.
