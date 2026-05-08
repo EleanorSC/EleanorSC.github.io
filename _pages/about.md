@@ -14,7 +14,7 @@ profile:
     <p>Oxford, United Kingdom</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
