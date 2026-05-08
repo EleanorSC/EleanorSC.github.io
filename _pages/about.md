@@ -23,4 +23,8 @@ latest_posts:
   enabled: false
 ---
 
+I am a research fellow in Applied AI at the Univeristy of Oxford.
+
 My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between DNA methylation and heterogeneity in brain ageing.
+
+I work on applied AI approaches for large-scale multimodal neuorimaging, integrating MRI and multi-omic data to characterise determinants of accelerated cognitive ageing. My research work to date has been supported by fellowships from the MRC-IEU, Wellcome Trust (108890/Z/15/Z), and my current Junior Research Fellowship (EPT-AI).
