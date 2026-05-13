@@ -457,6 +457,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-molecular-biochemistry-tutorials",
+          title: 'Molecular Biochemistry Tutorials',
+          description: "Tutorials covering core concepts in molecular and cellular biochemistry, including DNA replication, transcription, membranes, and cell signalling, with a strong emphasis on mechanistic reasoning and Oxford-style examination questions.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/molecular-biochem/";
             },},{
         id: 'social-cv',
         title: 'CV',
