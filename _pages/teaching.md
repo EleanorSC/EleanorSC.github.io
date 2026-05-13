@@ -17,6 +17,7 @@ Details of my current teaching are below.
 For students who attend my tutorials (Experimental Psychology, Medicine, Biomedical Sciences, Biochemistry) the following tutorial topics and related reading lists and tutorial handouts are available:
 
 - Neurophysiology (Prelims)
+- Social Neuroscience
 - Psychology for Medicine (Part II)
 - Cognitive Neuroscience (Part III)
 - Motor Systems: Cerebellum and Basal Ganglia (Part II)
@@ -27,31 +28,6 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 
 
 ---
-
-**College Research Fellow, OPUS Tutorials: Social Neuroscience**  
-*2025–present*
-
----
-
-**Casual Lecturer, Introduction to Machine Learning and Bayesian Statistics**  
-*2024–present*
-
-### University of Edinburgh
-
-**Casual Lecturer, Neurobiology of Cognition in Health & Disease**  
-*2023–2024*
-
----
-
-**Data Science Tutor, BIME08007 | BIME09008, Medical School**  
-*2023–2024*
-
----
-
-**Data Science Tutor, AI & High Dimensional Statistics (ED-DASH)**  
-*2022–2023*
-
-
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
