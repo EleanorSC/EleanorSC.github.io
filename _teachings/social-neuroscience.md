@@ -1,3 +1,4 @@
+---
 layout: course
 title: Social Neuroscience Tutorials
 description: A tutorial-based course exploring how neural systems give rise to social cognition, language, memory, personality, morality, attachment, and interpersonal understanding.
@@ -7,7 +8,6 @@ term: Michaelmas
 location: Lady Margaret Hall, University of Oxford
 time: Thursdays, 11:00 AM / 2:00 PM
 course_id: social-neuroscience-tutorials
-
 schedule:
 
   - week: 3
