@@ -11,7 +11,7 @@ calendar: true
 
 Details of my current teaching are below. 
 
-**Junior Research Fellow, :contentReference[oaicite:0]{index=0}**  
+**Non-Stipendiary Lecturer in Neuroscience, LMH**  
 *2024-2026*
 
 For students who attend my tutorials (Experimental Psychology, Medicine, Biomedical Sciences, Biochemistry) the following tutorial topics and related reading lists and tutorial handouts are available:
@@ -51,8 +51,6 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 **Data Science Tutor, AI & High Dimensional Statistics (ED-DASH)**  
 *2022–2023*
 
-
-<img width="468" height="224" alt="image" src="https://github.com/user-attachments/assets/9e720ab3-88b7-4441-b0a4-3d7be1d660e9" />
 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
