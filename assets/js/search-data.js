@@ -462,6 +462,11 @@ ninja.data = [{
           description: "Tutorials covering core concepts in molecular and cellular biochemistry, including DNA replication, transcription, membranes, and cell signalling, with a strong emphasis on mechanistic reasoning and Oxford-style examination questions.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/molecular-biochem/";
+            },},{id: "teachings-social-neuroscience-tutorials",
+          title: 'Social Neuroscience Tutorials',
+          description: "A tutorial-based course exploring how neural systems give rise to social cognition, language, memory, personality, morality, attachment, and interpersonal understanding.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/social-neuroscience/";
             },},{
         id: 'social-cv',
         title: 'CV',
