@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole">Nuffield Department of Clinical Neurosciences, University of Oxford</a>
+  <a href="https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole"> Junior Research Fellow in Applied Artifical Intelligence at Lady Margaret Hall, University of Oxford | Department of Biochemistry | Visiting Research Fellow at Nuffield Department of Clinical Neurosciences, University of Oxford</a>
 
 profile:
   align: right
