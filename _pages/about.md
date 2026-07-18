@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole"> Junior Research Fellow in Applied Artifical Intelligence at Lady Margaret Hall, University of Oxford | Department of Biochemistry | Visiting Research Fellow at Nuffield Department of Clinical Neurosciences, University of Oxford</a>
+  <a href="https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole"> Junior Research Fellow in Applied Artifical Intelligence at Lady Margaret Hall, University of Oxford </a>
 
 profile:
   align: right
@@ -22,6 +22,8 @@ announcements:
 latest_posts:
   enabled: false
 ---
+eleanor.conole@bioch.ox.ac.uk | JRF Department of Biochemistry, University of Oxford
+eleanor.conole@ndcn.ox.ac.uk | Visiting Research Fellow at Nuffield Department of Clinical Neurosciences, University of Oxford
 
 My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between epigenetics and heterogeneity in brain ageing. My research to date (Conole et al., 2021; 2022; 2023; 2024; 2025) investigates how the epigenetic modification, DNA methylation (DNAm), can be used to build proxies of various modifiable determinants of brain health. 
 
