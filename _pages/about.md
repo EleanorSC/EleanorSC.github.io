@@ -22,8 +22,12 @@ announcements:
 latest_posts:
   enabled: false
 ---
-eleanor.conole@bioch.ox.ac.uk | JRF Department of Biochemistry, University of Oxford
-eleanor.conole@ndcn.ox.ac.uk | Visiting Research Fellow at Nuffield Department of Clinical Neurosciences, University of Oxford
+- <a href="mailto:eleanor.conole@bioch.ox.ac.uk">eleanor.conole@bioch.ox.ac.uk</a>  
+  <small>Junior Research Fellow, Department of Biochemistry, University of Oxford (2024-present)</small>
+
+- <a href="mailto:eleanor.conole@ndcn.ox.ac.uk">eleanor.conole@ndcn.ox.ac.uk</a>  
+  <small>Visiting Research Fellow, Nuffield Department of Clinical Neurosciences, University of Oxford (2026-present)</small>
+
 
 My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between epigenetics and heterogeneity in brain ageing. My research to date (Conole et al., 2021; 2022; 2023; 2024; 2025) investigates how the epigenetic modification, DNA methylation (DNAm), can be used to build proxies of various modifiable determinants of brain health. 
 
