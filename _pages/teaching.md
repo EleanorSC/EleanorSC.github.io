@@ -35,9 +35,9 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 
 2024-present	Junior Research Fellow, Lady Margaret Hall, University of Oxford, UK
 
-Non-stipendiary tutorial teaching delivery for Medicine (Part II Psychology for Medicine; Motor Systems; Neuroanatomy; Neurodegeneration | Part III Cognitive Neuroscience) Biomedical Sciences (Genes and Molecules); Experimental Psychology (Neurophysiology); Biochemistry (Molecular Biochemistry); marking for FHS Neuroscience and Cell and Systems Biology (Part B)
+Non-stipendiary tutorial teaching delivery for | Medicine (Part II Psychology for Medicine; Motor Systems; Neuroanatomy; Neurodegeneration; Part III Cognitive Neuroscience) Biomedical Sciences (Genes and Molecules); Experimental Psychology (Neurophysiology); Biochemistry (Molecular Biochemistry); marking for FHS Neuroscience and Cell and Systems Biology (Part B)
 
-2022-2024	 MSc + PhD-supervision for rotation projects on Translational Neuroscience programme   
+2022-2024	 MSc + PhD-supervision | rotation projects on Translational Neuroscience programme   
 
 2024-2024	Casual Lecturer, Doctoral Training Centre, (MPLS), University of Oxford
 Lectures and coding/stats workshop contributions to the Intermediate Statistics and Data Management course: https://eleanorsc.github.io/High-Dimensional-Statistics/
