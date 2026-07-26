@@ -31,22 +31,33 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 - Social Neuroscience
 
 ---
-**Teaching & Supervision Experience:**  
 
-2024-present	Junior Research Fellow, Lady Margaret Hall, University of Oxford, UK
-
-Non-stipendiary tutorial teaching delivery for | Medicine (Part II Psychology for Medicine; Motor Systems; Neuroanatomy; Neurodegeneration; Part III Cognitive Neuroscience) Biomedical Sciences (Genes and Molecules); Experimental Psychology (Neurophysiology); Biochemistry (Molecular Biochemistry); marking for FHS Neuroscience and Cell and Systems Biology (Part B)
-
-2022-2024	 MSc + PhD-supervision | rotation projects on Translational Neuroscience programme   
-
-2024-2024	Casual Lecturer, Doctoral Training Centre, (MPLS), University of Oxford
+**Intermediate Statistics and Data Management course, Doctoral Training Centre, (MPLS), University of Oxford**
+*2024–2025*
 Lectures and coding/stats workshop contributions to the Intermediate Statistics and Data Management course: https://eleanorsc.github.io/High-Dimensional-Statistics/
 
-2023-2024	Casual Lecturer, Deanery of Biomedical Sciences, University of Edinburgh                
-Lectures and examining Neurobiology of Cognition in Health & Disease module (Postdoc role)
+---
+**Neurobiology of Cognition in Health & Disease, Deanery of Biomedical Sciences, University of Edinburgh**                
+Lectures and examining Neurobiology of Cognition in Health & Disease module (BIME10070)
+*2023–2024*
+<a href="https://www.drps.ed.ac.uk/19-20/dpt/cxbime10070.htm" target="_blank">
+(BIME10070) Neurobiology of Cognition in Health and Disease Course outline 
+</a>
 
-2020-2023	Tutor (Grade UE06), Biomedical Sciences Teaching Organisation, University of Edinburgh
+---
+**Tutor (Grade UE06), Biomedical Sciences Teaching Organisation, University of Edinburgh**
+*2020-2023*	
 Statistics workshops BIME08007, BIME09008, AI & High Dimensional Statistics (ED-DASH)
+
+<a href="https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm" target="_blank">
+(BIME08007) Biomedical Sciences 2 Course outline 
+</a>
+
+
+
+<a href="[https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm](https://www.drps.ed.ac.uk/20-21/dpt/cxbime09008.htm)" target="_blank">
+(BIME09008) Biomedical Sciences 3  Course outline 
+</a>
 
 ---
 
