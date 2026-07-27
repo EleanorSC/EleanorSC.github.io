@@ -34,7 +34,16 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 
 **Intermediate Statistics and Data Management course, Doctoral Training Centre, (MPLS), University of Oxford**
 *2024–2025*
-Lectures and coding/stats workshop contributions to the Intermediate Statistics and Data Management course: https://eleanorsc.github.io/High-Dimensional-Statistics/
+Lectures and coding/stats workshop contributions to the Intermediate Statistics and Data Management course: 
+
+<a href="https://eleanorsc.github.io/High-Dimensional-Statistics/" target="_blank">
+High Dimensional Statistics Workshop outline 
+</a>
+
+<a href="https://www.dtc.ox.ac.uk/modules/" target="_blank">
+(Doctoral Training Centre) Interdisciplinary Science DPhil Course outline
+</a>
+
 
 ---
 **Neurobiology of Cognition in Health & Disease, Deanery of Biomedical Sciences, University of Edinburgh**                
@@ -55,7 +64,7 @@ Statistics workshops BIME08007, BIME09008, AI & High Dimensional Statistics (ED-
 
 
 
-<a href="[https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm](https://www.drps.ed.ac.uk/20-21/dpt/cxbime09008.htm)" target="_blank">
+<a href="https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm" target="_blank">
 (BIME09008) Biomedical Sciences 3  Course outline 
 </a>
 
