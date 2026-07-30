@@ -30,7 +30,17 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 **Oxford Programme for Undergraduate Studies**
 - Social Neuroscience
 
+<a href="https://eleanorsc.github.io/teachings/social-neuroscience/" target="_blank">
+Social Neuroscience OPUS Course outline 
+</a>
+
+
 ---
+**AI / ML coding workshops, University of Oxford**
+
+https://github.com/EleanorSC/getting-to-grips-with-git
+
+https://github.com/EleanorSC/Machine-Learning-Oxford-2026
 
 **Intermediate Statistics and Data Management course, Doctoral Training Centre, (MPLS), University of Oxford**
 *2024–2025*
