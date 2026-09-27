@@ -1,11 +1,8 @@
-
----
 layout: page
 title: Books
 permalink: /books/
 nav: true
 nav_order: 4
----
 
 Conole, E.L.S., (forthcoming) Neuroepigenetics: How We Live Shapes How We Age. Oxford University Press (under contract.
 
