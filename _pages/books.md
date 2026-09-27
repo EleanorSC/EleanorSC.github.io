@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Books
 permalink: /books/
+title: books
+description: Books by Eleanor L. S. Conole
 nav: true
 nav_order: 4
 ---
