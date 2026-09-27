@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/research/";
           },
         },{id: "nav-books",
-          title: "Books",
-          description: "",
+          title: "books",
+          description: "Books by Eleanor L. S. Conole",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
