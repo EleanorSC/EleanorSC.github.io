@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-Conole, E.L.S., (forthcoming) Neuroepigenetics: How We Live Shapes How We Age. Oxford University Press (under contract.
+Conole, E.L.S., (forthcoming) Neuroepigenetics: How We Live Shapes How We Age. Oxford University Press (under contract).
 
 <div class="row">
   <div class="col-sm-4">
