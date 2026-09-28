@@ -33,7 +33,7 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I work on applied AI approaches for large-scale multimodal neuroimaging, integrating MRI and multi-omic data to characterise determinants of accelerated cognitive ageing. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship (EPT-AI).
 
-Conole, E.L.S., (forthcoming) Neuroepigenetics: How We Live Shapes How We Age. Oxford University Press (under contract.
+I am currently completing my first book, *Neuroepigenetics*.
 
 <div class="row">
   <div class="col-sm-4">
