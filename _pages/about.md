@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dementia-researcher-bio2.png
   image_circular: false
   more_info: >
     <p>University of Oxford</p>
