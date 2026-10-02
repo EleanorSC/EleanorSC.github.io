@@ -31,7 +31,7 @@ latest_posts:
 
 My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between epigenetics and heterogeneity in brain ageing. My research to date (Conole et al., 2021; 2022; 2023; 2024; 2025) investigates how the epigenetic modification, DNA methylation (DNAm), can reveal the key determinants of inter-individual differences in brain structure and functioning. 
 
-Methodologically, I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics to characterise determinants of accelerated cognitive ageing. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
+I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
 I am currently completing my first book, *Neuroepigenetics*.
 
