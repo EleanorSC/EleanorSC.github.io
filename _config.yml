@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Eleanor
+first_name: Dr Eleanor
 middle_name: L. S.
 last_name: Conole
 contact_note: eleanor.conole@ndcn.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a Research Fellow in Applied AI working at the Nuffield Department of Clinical Neurosciences (https://www.ndcn.ox.ac.uk/). 
+  I am a Junior Research Fellow in Applied AI working at the Nuffield Department of Clinical Neurosciences (https://www.ndcn.ox.ac.uk/). 
   My research in neuroepigenetics (Conole et al., 2021; 2022; 2023; 2024; 2025; ongoing projects) examines how the way we live shapes individual differences in brain health. 
   I am particularly interested in how environmental exposures can be profiled using epigenetics to examine heterogeneity in brain structure 
   and trajectories of cognitive ageing.
@@ -18,7 +18,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: neuroepigenetics, cognitive ageing, epigenetics, neuroimaging # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Ψ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://eleanorsc.github.io
 baseurl: 
