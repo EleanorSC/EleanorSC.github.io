@@ -53,11 +53,11 @@ I am currently completing my first book, *Neuroepigenetics*.
     </p>
 
     <p>
+    
       A new interdisciplinary account of how epigenetic processes
       connect our genes, lived experiences, brain health, and ageing.
 
      
-      <img width="468" height="203" alt="image" src="https://github.com/user-attachments/assets/aa746366-1465-41f1-965d-0fba232433c6" />
 
     </p>
   </div>
