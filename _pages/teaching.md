@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Tutorial teaching materials, essay and feedback examples, lecture slides, and problem sheets from my undergraduate teaching.
 nav: true
 nav_order: 6
 calendar: true
@@ -25,6 +25,42 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 - Motor Systems: Cerebellum and Basal Ganglia (Part II)
 - Neuroanatomy (Part II)
 - Neurodegeneration (Part II)
+
+## Interactive Teaching Resources
+
+<div class="card mt-4 mb-4">
+  <div class="row g-0 align-items-center">
+
+    <div class="col-md-4">
+      <img src="/assets/img/STDP.png"
+           class="img-fluid rounded-start"
+           alt="Spike-timing-dependent plasticity learning window">
+    </div>
+
+    <div class="col-md-8">
+      <div class="card-body">
+
+        <h4 class="card-title">Interactive Neurophysiology</h4>
+
+        <p class="card-text">
+          An interactive Python/Jupyter teaching resource introducing
+          computational models of <strong>synaptic plasticity</strong>.
+          Students explore short-term plasticity and STDP by manipulating
+          parameters, fitting models, and analysing spike trains.
+        </p>
+
+        <a href="https://github.com/EleanorSC/Neurophysiology-Teaching"
+           class="btn btn-outline-primary"
+           target="_blank">
+          Explore the notebook →
+        </a>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
 ---
 **Oxford Programme for Undergraduate Studies**
