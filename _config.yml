@@ -12,10 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My research in neuroepigenetics (Conole et al., 2021; 2022; 2023; 2024; 2025; ongoing projects) examines how the way we live shapes individual differences in brain health. 
   I am particularly interested in how environmental exposures can be profiled using epigenetics to examine heterogeneity in brain structure 
   and trajectories of cognitive ageing.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text: ""
 keywords: neuroepigenetics, cognitive ageing, epigenetics, neuroimaging # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: Ψ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
