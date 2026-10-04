@@ -90,15 +90,17 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
            rel="noopener noreferrer">
           Explore the notebook →
         </a>
+
         <a href="https://colab.research.google.com/github/EleanorSC/High-Dimensional-Statistics-Teaching/blob/main/Interactive_High_Dimensional_Statistics.ipynb"
-           class="btn btn-primary"
-   target="_blank"
-   rel="noopener noreferrer">
-  Run interactively →
-</a>
+           class="btn btn-primary ms-2"
+           target="_blank"
+           rel="noopener noreferrer">
+          Run interactively →
+        </a>
 
       </div>
     </div>
+
   </div>
 </div>
 
