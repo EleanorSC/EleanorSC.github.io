@@ -32,36 +32,30 @@ week: 6
 date: Hilary Week 6
 topic: Neurobiology of Language
 description: |
-Neural systems underlying language production and comprehension,
-hemispheric lateralisation, aphasia, language networks, and evidence
-from lesion studies, neuropsychology and functional neuroimaging.
+  Neural systems underlying language production and comprehension,
+  hemispheric lateralisation, aphasia, language networks, and evidence
+  from lesion studies, neuropsychology and functional neuroimaging.
 materials:
-
-name: Tutorial Essay
+- name: Tutorial Essay
 url: /assets/pdf/LANGUAGE_ESSAY.pdf
-
-name: Tutorial PowerPoint
+- name: Tutorial PowerPoint
 url: /assets/pdf/LANGUAGE.pptx
-
-name: Exam Questions
+- name: Exam Questions
 url: /assets/pdf/LANGUAGE_EXAM_QUESTIONS.pdf
 
 week: 7
 date: Hilary Week 7
 topic: Neurophysiology
 description: |
-The physiological basis of neural signalling, including membrane
-potentials, action potentials, synaptic transmission, neurotransmission,
-and the relationship between neuronal activity and behaviour.
+  The physiological basis of neural signalling, including membrane
+  potentials, action potentials, synaptic transmission, neurotransmission,
+  and the relationship between neuronal activity and behaviour.
 materials:
-
-name: Tutorial Essay
+- name: Tutorial Essay
 url: /assets/pdf/NEUROPHYSIOLOGY_ESSAY.pdf
-
-name: Tutorial PowerPoint
+- name: Tutorial PowerPoint
 url: /assets/pdf/NEUROPHYSIOLOGY.pptx
-
-name: Exam Questions
+- name: Exam Questions
 url: /assets/pdf/NEUROPHYSIOLOGY_EXAM_QUESTIONS.pdf
 
 ---
