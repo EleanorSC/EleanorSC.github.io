@@ -13,10 +13,12 @@ schedule:
   - week: 5
     date: Hilary Week 5
     topic: Episodic Memory
-    description: 
-      Discuss our understanding of the brain structures and mechanisms that underlie episodic memories; Neural systems supporting episodic memory, including the hippocampus
-and medial temporal lobe, memory encoding and retrieval, consolidation,
-and evidence from neuropsychology and neuroimaging.
+    description: |
+    Discuss our understanding of the brain structures and mechanisms
+    that underlie episodic remembering; neural systems supporting episodic memory,
+    including the hippocampus and medial temporal lobe,
+    memory encoding and retrieval, consolidation, and consider evidence from
+    neuropsychology, neurophysiology and neuroimaging.
         
     materials:
       - name: Tutorial Essay
