@@ -62,6 +62,46 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
 </div>
 
 
+<div class="card mt-4 mb-4">
+  <div class="row g-0 align-items-center">
+
+    <div class="col-md-4">
+      <img src="{{ '/assets/img/LASSO_path.png' | relative_url }}"
+           class="img-fluid rounded-start"
+           alt="LASSO regularisation coefficient paths">
+    </div>
+
+    <div class="col-md-8">
+      <div class="card-body">
+
+        <h4 class="card-title">Interactive High-Dimensional Statistics</h4>
+
+        <p class="card-text">
+          An interactive Python/Jupyter teaching resource introducing
+          <strong>regularisation and variable selection</strong> in
+          high-dimensional data. Explore the p ≫ n problem, LASSO
+          regression, coefficient shrinkage, cross-validation, signal
+          recovery, and selection stability.
+        </p>
+
+        <a href="https://github.com/EleanorSC/High-Dimensional-Statistics-Teaching"
+           class="btn btn-outline-primary"
+           target="_blank"
+           rel="noopener noreferrer">
+          Explore the notebook →
+        </a>
+        <a href="https://colab.research.google.com/github/EleanorSC/High-Dimensional-Statistics-Teaching/blob/main/Interactive_High_Dimensional_Statistics.ipynb"
+           class="btn btn-primary"
+   target="_blank"
+   rel="noopener noreferrer">
+  Run interactively →
+</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
 ---
 **Oxford Programme for Undergraduate Studies**
 - Social Neuroscience
