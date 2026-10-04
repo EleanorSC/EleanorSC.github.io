@@ -5,16 +5,17 @@ title: teaching
 description: Tutorial teaching materials, essay and feedback examples, lecture slides, and problem sheets from my undergraduate teaching.
 nav: true
 nav_order: 6
+calendar: true
 ---
 
-Details of my current and previous teaching are below.
 
-## Oxford Undergraduate Tutorial Teaching
+Details of my current teaching are below:
 
 **Non-Stipendiary Lecturer in Neuroscience, Lady Margaret Hall, University of Oxford**  
-*2024–2027*
+*2024-2027*
 
-I provide undergraduate tutorial teaching across Experimental Psychology, Medicine, Biomedical Sciences, and Biochemistry. Selected tutorial materials, reading lists, essay questions, feedback examples, and teaching resources are available below.
+**University of Oxford, Specific Paper Teaching**
+For students who attend my tutorials (Experimental Psychology, Medicine, Biomedical Sciences, Biochemistry) the following tutorial topics and related reading lists and tutorial handouts are available:
 
 - Genes and Molecules
 - Molecular Biochemistry
@@ -25,14 +26,13 @@ I provide undergraduate tutorial teaching across Experimental Psychology, Medici
 - Neuroanatomy (Part II)
 - Neurodegeneration (Part II)
 
-
 ## Interactive Teaching Resources
 
 <div class="card mt-4 mb-4">
   <div class="row g-0 align-items-center">
 
     <div class="col-md-4">
-      <img src="{{ '/assets/img/STDP.png' | relative_url }}"
+      <img src="/assets/img/STDP.png"
            class="img-fluid rounded-start"
            alt="Spike-timing-dependent plasticity learning window">
     </div>
@@ -43,17 +43,15 @@ I provide undergraduate tutorial teaching across Experimental Psychology, Medici
         <h4 class="card-title">Interactive Neurophysiology</h4>
 
         <p class="card-text">
-          An interactive Python/Jupyter teaching resource introducing computational
-          models of <strong>synaptic plasticity</strong>. Students explore
-          short-term synaptic plasticity (STP) and spike-timing-dependent plasticity
-          (STDP) by manipulating model parameters, fitting models, and analysing
-          spike trains.
+          An interactive Python/Jupyter teaching resource introducing
+          computational models of <strong>synaptic plasticity</strong>.
+          Students explore short-term plasticity and STDP by manipulating
+          parameters, fitting models, and analysing spike trains.
         </p>
 
         <a href="https://github.com/EleanorSC/Neurophysiology-Teaching"
            class="btn btn-outline-primary"
-           target="_blank"
-           rel="noopener noreferrer">
+           target="_blank">
           Explore the notebook →
         </a>
 
@@ -64,85 +62,60 @@ I provide undergraduate tutorial teaching across Experimental Psychology, Medici
 </div>
 
 
-## Social Neuroscience
-
+---
 **Oxford Programme for Undergraduate Studies**
+- Social Neuroscience
 
-Tutorial teaching in Social Neuroscience, covering the neural and cognitive mechanisms underlying social behaviour.
-
-<a href="https://eleanorsc.github.io/teachings/social-neuroscience/"
-   target="_blank"
-   rel="noopener noreferrer">
-  View Social Neuroscience course materials →
+<a href="https://eleanorsc.github.io/teachings/social-neuroscience/" target="_blank">
+Social Neuroscience OPUS Course outline 
 </a>
 
 
 ---
+**AI / ML coding workshops, University of Oxford**
 
-## AI & Machine Learning Teaching
+https://github.com/EleanorSC/getting-to-grips-with-git
 
-**Coding workshops, University of Oxford**
+https://github.com/EleanorSC/Machine-Learning-Oxford-2026
 
-- <a href="https://github.com/EleanorSC/getting-to-grips-with-git" target="_blank" rel="noopener noreferrer">Getting to Grips with Git</a> — introductory practical teaching on Git and version control.
-- <a href="https://github.com/EleanorSC/Machine-Learning-Oxford-2026" target="_blank" rel="noopener noreferrer">Machine Learning Oxford 2026</a> — practical materials for machine-learning teaching and workshops.
-
-
----
-
-## Statistics & Data Management
-
-**Intermediate Statistics and Data Management, Doctoral Training Centre (MPLS), University of Oxford**  
+**Intermediate Statistics and Data Management course, Doctoral Training Centre, (MPLS), University of Oxford**
 *2024–2025*
+Lectures and coding/stats workshop contributions to the Intermediate Statistics and Data Management course: 
 
-Lecture and coding/statistics workshop contributions to the Intermediate Statistics and Data Management course.
-
-<a href="https://eleanorsc.github.io/High-Dimensional-Statistics/"
-   target="_blank"
-   rel="noopener noreferrer">
-  High-Dimensional Statistics Workshop →
+<a href="https://eleanorsc.github.io/High-Dimensional-Statistics/" target="_blank">
+High Dimensional Statistics Workshop outline 
 </a>
 
-<br>
-
-<a href="https://www.dtc.ox.ac.uk/modules/"
-   target="_blank"
-   rel="noopener noreferrer">
-  Interdisciplinary Science DPhil Course, Doctoral Training Centre →
+<a href="https://www.dtc.ox.ac.uk/modules/" target="_blank">
+(Doctoral Training Centre) Interdisciplinary Science DPhil Course outline
 </a>
 
 
 ---
-
-## Previous Teaching
-
-### Neurobiology of Cognition in Health & Disease
-
-**Deanery of Biomedical Sciences, University of Edinburgh**  
+**Neurobiology of Cognition in Health & Disease, Deanery of Biomedical Sciences, University of Edinburgh**                
+Lectures and examining Neurobiology of Cognition in Health & Disease module (BIME10070)
 *2023–2024*
-
-Lecturing and examining for *Neurobiology of Cognition in Health & Disease* (BIME10070).
-
-<a href="https://www.drps.ed.ac.uk/19-20/dpt/cxbime10070.htm"
-   target="_blank"
-   rel="noopener noreferrer">
-  BIME10070 course outline →
+<a href="https://www.drps.ed.ac.uk/19-20/dpt/cxbime10070.htm" target="_blank">
+(BIME10070) Neurobiology of Cognition in Health and Disease Course outline 
 </a>
-
-
-### Biomedical Sciences
-
-**Tutor (Grade UE06), Biomedical Sciences Teaching Organisation, University of Edinburgh**  
-*2020–2023*
-
-Statistics and quantitative methods teaching across BIME08007 and BIME09008, alongside teaching in AI and High-Dimensional Statistics (ED-DASH).
-
-<a href="https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm"
-   target="_blank"
-   rel="noopener noreferrer">
-  BIME08007 Biomedical Sciences 2 course outline →
-</a>
-
 
 ---
+**Tutor (Grade UE06), Biomedical Sciences Teaching Organisation, University of Edinburgh**
+*2020-2023*	
+Statistics workshops BIME08007, BIME09008, AI & High Dimensional Statistics (ED-DASH)
+
+<a href="https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm" target="_blank">
+(BIME08007) Biomedical Sciences 2 Course outline 
+</a>
+
+
+
+<a href="https://www.drps.ed.ac.uk/24-25/dpt/cxbime08007.htm" target="_blank">
+(BIME09008) Biomedical Sciences 3  Course outline 
+</a>
+
+---
+
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
