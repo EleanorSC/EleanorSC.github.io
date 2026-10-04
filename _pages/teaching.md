@@ -66,7 +66,7 @@ For students who attend my tutorials (Experimental Psychology, Medicine, Biomedi
   <div class="row g-0 align-items-center">
 
     <div class="col-md-4">
-      <img src="{{ '/assets/img/LASSO_path.png' | relative_url }}"
+      <img src="{{ '/assets/img/DNAm_matrix.png' | relative_url }}"
            class="img-fluid rounded-start"
            alt="LASSO regularisation coefficient paths">
     </div>
