@@ -20,8 +20,8 @@ and evidence from neuropsychology and neuroimaging.
     materials:
       - name: Tutorial Essay
         url: /assets/pdf/COG_NEURO_ESSAY_FEEDBACK
-      - name: Tutorial PowerPoint
-        url: /assets/pdf/COG_NEURO.pptx
+      - name: Tutorial Slides
+        url: /assets/pdf/Cognitive_Neuro_MEMORY.pdf
       - name: Exam Questions
         url: /assets/pdf/COG_NEURO_ESSAY_FEEDBACK.pdf
 
