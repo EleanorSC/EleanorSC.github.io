@@ -454,9 +454,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-cognitive-neuroscience-tutorials",
+          title: 'Cognitive Neuroscience Tutorials',
+          description: "Cognitive Neuroscience",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cog-neuro/";
             },},{id: "teachings-data-science-fundamentals",
