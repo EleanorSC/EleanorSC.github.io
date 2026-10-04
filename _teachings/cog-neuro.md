@@ -8,6 +8,7 @@ term: Hilary
 location: Lady Margaret Hall, University of Oxford
 time: Weekly Tutorials
 course_id: cog-neuro
+---
 schedule:
   - week: 5
     date: Hilary Week 5
