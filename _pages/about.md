@@ -62,3 +62,41 @@ I am currently completing my first book, *Neuroepigenetics*.
     </p>
   </div>
 </div>
+
+I also teach a range of undergraduate and postgraduate courses in AL/ML and psychology and neuroscience; please see the teaching tab for examples of my teaching materials and examples of my lecture slides, feedback, and problem-sheets. For Oxford students attending my tutorials, example essay feedback, slides and reading lists can be found here.  
+
+
+## Interactive Teaching Resources
+
+<div class="card mt-4 mb-4">
+  <div class="row g-0 align-items-center">
+
+    <div class="col-md-4">
+      <img src="/assets/img/STDP.png"
+           class="img-fluid rounded-start"
+           alt="Spike-timing-dependent plasticity learning window">
+    </div>
+
+    <div class="col-md-8">
+      <div class="card-body">
+
+        <h4 class="card-title">Interactive Neurophysiology</h4>
+
+        <p class="card-text">
+          An interactive Python/Jupyter teaching resource introducing
+          computational models of <strong>synaptic plasticity</strong>.
+          Students explore short-term plasticity and STDP by manipulating
+          parameters, fitting models, and analysing spike trains.
+        </p>
+
+        <a href="https://github.com/EleanorSC/Neurophysiology-Teaching"
+           class="btn btn-outline-primary"
+           target="_blank">
+          Explore the notebook →
+        </a>
+
+      </div>
+    </div>
+
+  </div>
+</div>
