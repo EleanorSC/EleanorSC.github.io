@@ -9,10 +9,10 @@ calendar: true
 ---
 
 
-Details of my current teaching are below. 
+Details of my current teaching are below:
 
 **Non-Stipendiary Lecturer in Neuroscience, Lady Margaret Hall, University of Oxford**  
-*2024-2026*
+*2024-2027*
 
 **University of Oxford, Specific Paper Teaching**
 For students who attend my tutorials (Experimental Psychology, Medicine, Biomedical Sciences, Biochemistry) the following tutorial topics and related reading lists and tutorial handouts are available:
