@@ -3,7 +3,7 @@ layout: course
 title: Cognitive Neuroscience Tutorials
 description: Cognitive Neuroscience 
 instructor: Dr Eleanor Conole
-year: 2026
+year: 2027
 term: Hilary
 location: Lady Margaret Hall, University of Oxford
 time: Weekly Tutorials
