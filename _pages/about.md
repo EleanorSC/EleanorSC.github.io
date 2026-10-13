@@ -38,7 +38,7 @@ I am currently completing my first book, *Neuroepigenetics*.
 <div class="row">
   <div class="col-sm-4">
     <img
-      src="/assets/img/Neuroepigenetics.png"
+      src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
       alt="Neuroepigenetics: How We Live Shapes How We Age"
       class="img-fluid rounded"
     >
