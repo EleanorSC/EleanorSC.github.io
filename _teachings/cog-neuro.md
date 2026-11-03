@@ -12,6 +12,21 @@ course_id: cog-neuro
 schedule:
   - week: 2
     date: Hilary Week 2
+    topic: Organisation of Human Memory and Memory Disorders
+    description: |
+      What do memory disorders tell us about the organisa3on of human memory?
+      We will cover taxonomies of memory and consider evidence from
+      neuropsychology, neurophysiology and neuroimaging.
+    materials:
+      - name: Tutorial Essay
+        url: /assets/pdf/L1_COG_NEURO_MEMORY_FEEDBACK_EXAMPLE.pdf
+      - name: Tutorial Slides
+        url: /assets/pdf/L1_Cognitive_Neuro_MEMORY_SLIDES.pdf
+      - name: Exam Questions
+        url: /assets/pdf/COG_NEURO_EXAM_QUESTIONS.pdf
+
+  - week: 3
+    date: Hilary Week 3
     topic: Episodic Memory
     description: |
       Discuss our understanding of the brain structures and mechanisms
@@ -21,16 +36,14 @@ schedule:
       neuropsychology, neurophysiology and neuroimaging.
     materials:
       - name: Tutorial Essay
-        url: /assets/pdf/L1_COG_NEURO_MEMORY_FEEDBACK_EXAMPLE.pdf
         url: /assets/pdf/COG_NEURO_ESSAY_FEEDBACK.pdf
       - name: Tutorial Slides
-        url: /assets/pdf/L1_Cognitive_Neuro_MEMORY_SLIDES.pdf
         url: /assets/pdf/Cognitive_Neuro_MEMORY.pdf
       - name: Exam Questions
         url: /assets/pdf/COG_NEURO_EXAM_QUESTIONS.pdf
 
-  - week: 3
-    date: Hilary Week 3
+  - week: 4
+    date: Hilary Week 4
     topic: Neurobiology of Language
     description: |
       Neural systems underlying language production and comprehension,
@@ -44,8 +57,8 @@ schedule:
       - name: Exam Questions
         url: /assets/pdf/LANGUAGE_EXAM_QUESTIONS.pdf
 
-  - week: 4
-    date: Hilary Week 4
+  - week: 5
+    date: Hilary Week 5
     topic: Neurophysiology
     description: |
       The physiological basis of neural signalling, including membrane
