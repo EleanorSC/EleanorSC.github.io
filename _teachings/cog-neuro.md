@@ -21,8 +21,10 @@ schedule:
       neuropsychology, neurophysiology and neuroimaging.
     materials:
       - name: Tutorial Essay
+        url: /assets/pdf/L1_COG_NEURO_MEMORY_FEEDBACK_EXAMPLE.pdf
         url: /assets/pdf/COG_NEURO_ESSAY_FEEDBACK.pdf
       - name: Tutorial Slides
+        url: /assets/pdf/L1_Cognitive_Neuro_MEMORY_SLIDES.pdf
         url: /assets/pdf/Cognitive_Neuro_MEMORY.pdf
       - name: Exam Questions
         url: /assets/pdf/COG_NEURO_EXAM_QUESTIONS.pdf
