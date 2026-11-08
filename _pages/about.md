@@ -38,13 +38,15 @@ I am currently completing my first academic book on *Neuroepigenetics*, with Oxf
 [*Neuroepigenetics: How We Live Shapes How We Age* awrded OUP ECR First Book Prize 2026](https://corp.oup.com/news/first-book-prize-2026-winners-announced/)
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-md-6">
     <img
       src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
       alt="Neuroepigenetics: How We Live Shapes How We Age"
       class="img-fluid rounded"
+      style="width: 100%; height: auto; object-fit: contain;"
     >
   </div>
+</div>
 
 I also teach a range of undergraduate and postgraduate courses in AL/ML and psychology and neuroscience; please see the teaching tab for examples of my teaching materials and examples of my lecture slides, feedback, and problem-sheets. For Oxford students attending my tutorials, example essay feedback, slides and reading lists can be found here.  
 
