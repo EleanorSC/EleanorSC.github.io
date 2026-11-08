@@ -11,8 +11,6 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include keyword_histogram.html %}
-
 {% include bib_search.liquid %}
 
 <div class="research">
