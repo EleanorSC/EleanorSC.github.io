@@ -14,7 +14,7 @@ schedule:
     date: Hilary Week 2
     topic: Organisation of Human Memory and Memory Disorders
     description: |
-      What do memory disorders tell us about the organisa3on of human memory?
+      What do memory disorders tell us about the organisation of human memory?
       We will cover taxonomies of memory and consider evidence from
       neuropsychology, neurophysiology and neuroimaging.
     materials:
@@ -57,47 +57,34 @@ schedule:
       - name: Exam Questions
         url: /assets/pdf/LANGUAGE_EXAM_QUESTIONS.pdf
 
-  - week: 5
-    date: Hilary Week 5
-    topic: Neurophysiology
-    description: |
-      The physiological basis of neural signalling, including membrane
-      potentials, action potentials, synaptic transmission, neurotransmission,
-      and the relationship between neuronal activity and behaviour.
-    materials:
-      - name: Tutorial Essay
-        url: /assets/pdf/NEUROPHYSIOLOGY_ESSAY.pdf
-      - name: Tutorial Slides
-        url: /assets/pdf/NEUROPHYSIOLOGY.pdf
-      - name: Exam Questions
-        url: /assets/pdf/NEUROPHYSIOLOGY_EXAM_QUESTIONS.pdf
+
 ---
 
-## Course Overview
 
-These tutorials introduce Prelims / first-year Psychology (PP/EP) students to the neural and physiological bases of cognition and behaviour. Teaching integrates cognitive neuroscience, neurophysiology and neuropsychology, with an emphasis on evaluating how experimental evidence supports theories of brain–behaviour relationships.
+<div class="mb-4">
+  <img
+    src="/assets/img/L1_Cog_Neuro.png"
+    alt="L1 Cognitive Neurology teaching reading list"
+    class="img-fluid rounded"
+    style="display: block; width: 100%; max-width: 900px; height: auto; margin: 0 auto;"
+  >
+</div>
 
-The course emphasises:
 
-- Understanding the neural basis of cognition and behaviour
-- Linking neurophysiological mechanisms to psychological processes
-- Interpretation of neuropsychological and neuroimaging evidence
-- Critical evaluation of experimental evidence
-- Development of clear, evidence-based arguments
-- Preparation for Oxford Prelims examinations
+## L1 Cognitive Neurology -- Course Overview
+This advanced CBN option covers the evidence for why neurological conditions such as stroke, Alzheimer’s disease, frontotemporal dementia and Parkinson’s disease present with distinct cognitive phenotypes we observe in clinic. Tutorials will consider how cognitive assessment together with neuroimaging and other investigations are used to make a diagnosis,  guide treatments, and understand the underlying neurobiology of these dusorders. The course will cover how studies of patients inform our understanding of normal cognitive function. We’ll cover a wide range of cognitive and behavioural dysfunction, neuropsychological tests used to assess patients and therapeutic interventions.
+
+Students should first look to CANVAS to access previous lecture handouts, recorded lectures and reading lists for the Part B themes are available on CANVAS for Experimental Psychology Part B Advanced Options. Relevant Part A course handouts, recorded lectures and reading lists will also be available on CANVAS. New content from this year will be added onto CANVAS as it is delivered during the two teaching terms. 
 
 ## Topics Covered
 
-- Neuronal signalling and synaptic transmission
-- Organisation and function of the nervous system
+- Organisation and function of the nervous system in relation to distinct aspects of cognitive functioning
 - Canonical principles of cognitive neuroscience
 - Neural basis of learning and memory
-- Episodic memory and the hippocampal system
-- Language and the brain
-- Hemispheric specialisation and lateralisation
+- Neurobiology of Language
 - Neuropsychology and lesion studies
 - Neuroimaging and experimental approaches to brain function
-- Relationships between brain, cognition and behaviour
+
 
 ## Recommended Textbooks
 
