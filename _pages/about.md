@@ -35,63 +35,51 @@ I also teach a range of undergraduate and postgraduate courses at the University
 
 ### Academic books
 
-<div class="row mt-5 mb-5">
-  <div class="col-12">
 
-    <div class="card shadow-sm border-0 rounded"
-         style="padding: 30px;">
+<div class="card mt-4 mb-4">
+  <div class="row g-0 align-items-center">
 
-      <div class="row align-items-center">
+    <div class="col-md-4">
+      <img
+        src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
+        class="img-fluid rounded-start"
+        style="width: 100%; height: auto;"
+        alt="OUP ECR First Book Prize 2026">
+    </div>
 
-        <!-- Prize announcement image -->
-        <div class="col-md-5 mb-4 mb-md-0">
-          <img
-            src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
-            alt="OUP ECR First Book Prize 2026"
-            class="img-fluid rounded"
-            style="width: 100%; height: auto;"
-          >
-        </div>
+    <div class="col-md-8">
+      <div class="card-body">
 
-        <!-- Announcement text -->
-        <div class="col-md-7">
+        <h4 class="card-title">
+          OUP First Book Prize 2026
+        </h4>
 
-          <h2 class="mb-3">
-            OUP First Book Prize 2026
-          </h2>
+        <p class="card-text">
+          My forthcoming book,
+          <em>Neuroepigenetics: How We Live Shapes How We Age</em>,
+          has been awarded the
+          <strong>2026 Oxford University Press Early Career
+          Researcher First Book Prize</strong>.
+          The book explores how our environments and experiences
+          across the life course are recorded in our epigenome,
+          and what studying epigenetics might tell us about
+          differences in brain and cognitive ageing.
+        </p>
 
-          <p>
-            My forthcoming book,
-            <em>Neuroepigenetics: How We Live Shapes
-            How We Age</em>, has been awarded the
-            <strong>2026 Oxford University Press
-            Early Career Researcher First Book Prize</strong>.
-          </p>
-
-          <p>
-            The book explores how our environments
-            and experiences across the life course
-            become biologically embedded, and what
-            epigenetics can tell us about differences
-            in brain and cognitive ageing.
-          </p>
-
-          <a
-            href="https://corp.oup.com/news/first-book-prize-2026-winners-announced/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="btn btn-outline-primary mt-3"
-          >
-            READ THE PRIZE ANNOUNCEMENT &rarr;
-          </a>
-
-        </div>
+        <a
+          href="https://corp.oup.com/news/first-book-prize-2026-winners-announced/"
+          class="btn btn-outline-primary"
+          target="_blank"
+          rel="noopener noreferrer">
+          Read the prize announcement →
+        </a>
 
       </div>
     </div>
 
   </div>
 </div>
+
 
 
 ### Interactive Teaching Resources
@@ -131,13 +119,3 @@ I also teach a range of undergraduate and postgraduate courses at the University
 
 
 
-<div class="row">
-  <div class="col-md-6">
-    <img
-      src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
-      alt="Neuroepigenetics: How We Live Shapes How We Age"
-      class="img-fluid rounded"
-      style="width: 100%; height: auto; object-fit: contain;"
-    >
-  </div>
-</div>
