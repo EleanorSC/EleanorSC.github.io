@@ -31,23 +31,7 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
-I am currently completing my first academic book on *Neuroepigenetics*, with Oxford University Press (under contract).
-
-[*Neuroepigenetics: How We Live Shapes How We Age* awrded OUP ECR First Book Prize 2026](https://corp.oup.com/news/first-book-prize-2026-winners-announced/)
-
-<div class="row">
-  <div class="col-md-6">
-    <img
-      src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
-      alt="Neuroepigenetics: How We Live Shapes How We Age"
-      class="img-fluid rounded"
-      style="width: 100%; height: auto; object-fit: contain;"
-    >
-  </div>
-</div>
-
 I also teach a range of undergraduate and postgraduate courses in AL/ML and psychology and neuroscience; please see the teaching tab for examples of my teaching materials and examples of my lecture slides, feedback, and problem-sheets. For Oxford students attending my tutorials, example essay feedback, slides and reading lists can be found here.  
-
 
 ## Interactive Teaching Resources
 
@@ -81,5 +65,21 @@ I also teach a range of undergraduate and postgraduate courses in AL/ML and psyc
       </div>
     </div>
 
+  </div>
+</div>
+
+
+I am currently completing my first academic book on *Neuroepigenetics*, with Oxford University Press (under contract).
+
+[*Neuroepigenetics: How We Live Shapes How We Age* awarded OUP ECR First Book Prize 2026](https://corp.oup.com/news/first-book-prize-2026-winners-announced/)
+
+<div class="row">
+  <div class="col-md-6">
+    <img
+      src="/assets/img/Eleanor Conole_ECR First Book Prize Winners Social card (1200 x 630 px).png"
+      alt="Neuroepigenetics: How We Live Shapes How We Age"
+      class="img-fluid rounded"
+      style="width: 100%; height: auto; object-fit: contain;"
+    >
   </div>
 </div>
