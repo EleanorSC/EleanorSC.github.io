@@ -447,9 +447,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-cognitive-neuroscience-tutorials",
-          title: 'Cognitive Neuroscience Tutorials',
-          description: "Cognitive Neuroscience",
+            },},{id: "teachings-cognitive-and-behavioural-neuroscience-tutorials",
+          title: 'Cognitive and Behavioural Neuroscience Tutorials',
+          description: "Cognitive and Behavioural Neuroscience (CBN) tutorials for BMS students, Medics and third year Experimental Psychology and PPL students taking this as an Advanced Option.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cog-neuro/";
             },},{id: "teachings-data-science-fundamentals",
