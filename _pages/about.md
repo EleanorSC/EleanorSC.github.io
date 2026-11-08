@@ -27,11 +27,9 @@ Please contact me at the below email address:
 - <a href="mailto:eleanor.conole@ndcn.ox.ac.uk">eleanor.conole@ndcn.ox.ac.uk</a>  
   <small>Nuffield Department of Clinical Neurosciences, University of Oxford</small>  
 
-My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between epigenetics and heterogeneity in brain ageing. My research to date (Conole et al., 2021; 2022; 2023; 2024; 2025) investigates how the epigenetic modification, DNA methylation (DNAm), can reveal the key determinants of inter-individual differences in brain structure and functioning. 
+My research in neuroepigenetics examines how long-term exposures shape individual differences in brain health across the lifespan. I am particularly interested in the relationship between epigenetics and heterogeneity in brain ageing, looking at how epigenetics relates to differences in cognitive functioning and neuroimaging. My research to date has been supported by funding from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
-I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
-
-I also teach a range of undergraduate and postgraduate courses at the University of Oxford. For students attending my tutorials, example essay feedback, problem-sheets, lecture slides and reading lists can be found under the [teaching tab](/teaching/) of this website.  
+I currently teach a range of undergraduate and postgraduate courses at the University of Oxford. For students attending my tutorials, example essay feedback, problem-sheets, lecture slides and reading lists can be found under the [teaching tab](/teaching/) of this website.  
 
 ### Academic books
 
