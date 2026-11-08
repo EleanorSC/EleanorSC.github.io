@@ -33,7 +33,7 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
-I am currently completing my first book, *Neuroepigenetics*.
+I am currently completing my first academic book, *Neuroepigenetics*, with Oxford University Press (under contract).
 
 <div class="row">
   <div class="col-sm-4">
@@ -43,25 +43,6 @@ I am currently completing my first book, *Neuroepigenetics*.
       class="img-fluid rounded"
     >
   </div>
-
-  <div class="col-sm-8">
-    <h2><i>Neuroepigenetics</i></h2>
-    <h4>How We Live Shapes How We Age</h4>
-
-    <p>
-      <strong>Oxford University Press</strong>
-    </p>
-
-    <p>
-    
-      A new interdisciplinary account of how epigenetic processes
-      connect our genes, lived experiences, brain health, and ageing.
-
-     
-
-    </p>
-  </div>
-</div>
 
 I also teach a range of undergraduate and postgraduate courses in AL/ML and psychology and neuroscience; please see the teaching tab for examples of my teaching materials and examples of my lecture slides, feedback, and problem-sheets. For Oxford students attending my tutorials, example essay feedback, slides and reading lists can be found here.  
 
