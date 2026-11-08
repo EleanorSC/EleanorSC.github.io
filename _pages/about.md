@@ -31,7 +31,7 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I currently teach a range of undergraduate and postgraduate courses at the University of Oxford. For students attending my tutorials, example essay feedback, problem-sheets, lecture slides and reading lists can be found under the [teaching tab](/teaching/) of this website.  
 
-### Academic books
+### News
 
 
 <div class="card mt-4 mb-4">
