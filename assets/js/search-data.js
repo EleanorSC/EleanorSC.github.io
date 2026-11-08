@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-books",
-          title: "books",
-          description: "Books by Eleanor L. S. Conole",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Tutorial teaching materials, essay and feedback examples, lecture slides, and problem sheets from my undergraduate teaching.",
