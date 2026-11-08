@@ -1,7 +1,7 @@
 ---
 layout: course
-title: Cognitive Neuroscience Tutorials
-description: Cognitive Neuroscience
+title: Cognitive and Behavioural Neuroscience Tutorials
+description: Cognitive and Behavioural Neuroscience (CBN) tutorials for BMS students, Medics and third year Experimental Psychology and PPL students taking this as an Advanced Option. 
 instructor: Dr Eleanor Conole
 year: 2027
 term: Hilary
