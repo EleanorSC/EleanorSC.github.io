@@ -31,7 +31,7 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
-I also teach a range of undergraduate and postgraduate courses in AL/ML and psychology and neuroscience; please see the teaching tab for examples of my teaching materials and examples of my lecture slides, feedback, and problem-sheets. For Oxford students attending my tutorials, example essay feedback, slides and reading lists can be found here.  
+I also teach a range of undergraduate and postgraduate courses at the University of Oxford. For students attending my tutorials, example essay feedback, problem-sheets, lecture slides and reading lists can be found under the [teaching tab](/teaching/) of this website.  
 
 ## Interactive Teaching Resources
 
