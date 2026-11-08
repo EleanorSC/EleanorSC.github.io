@@ -33,7 +33,9 @@ My research in neuroepigenetics examines how long-term exposures shape individua
 
 I use machine learning approaches adapted to handle large-scale multimodal neuroimaging and genomic data from both population cohorts and clinical samples, integrating MRI and  neuropsychological assessment data with multi-omics. My research work to date has been supported by fellowships from the Wellcome Trust (108890/Z/15/Z) and my current Junior Research Fellowship in Applied Artifical Intelligence (EPT-AI).
 
-I am currently completing my first academic book, *Neuroepigenetics*, with Oxford University Press (under contract).
+I am currently completing my first academic book on *Neuroepigenetics*, with Oxford University Press (under contract).
+
+[*Neuroepigenetics: How We Live Shapes How We Age* awrded OUP ECR First Book Prize 2026](https://corp.oup.com/news/first-book-prize-2026-winners-announced/)
 
 <div class="row">
   <div class="col-sm-4">
