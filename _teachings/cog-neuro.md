@@ -86,19 +86,3 @@ Students should first look to CANVAS to access previous lecture handouts, record
 - Neuroimaging and experimental approaches to brain function
 
 
-## Recommended Textbooks
-
-- Gazzaniga, Ivry & Mangun — *Cognitive Neuroscience: The Biology of the Mind*
-- Ward — *The Student's Guide to Cognitive Neuroscience*
-- Purves et al. — *Neuroscience*
-- Bear, Connors & Paradiso — *Neuroscience: Exploring the Brain*
-
-## Teaching Format
-
-Tutorials are delivered in a small-group format and focus on:
-
-- Discussion of tutorial essays
-- Critical evaluation of key experiments and theories
-- Interpretation of neuropsychological and neuroimaging evidence
-- Knowledge testing
-- Examination-style questions and essay planning
